@@ -15,5 +15,6 @@ public class DataTypesExample {
         System.out.println("char : " + charVar);
         System.out.println
         System.out.println("long : " + longVar);
+        System.out.println("anil");
     }
 }
